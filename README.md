@@ -1,4 +1,4 @@
-### Hi there 👋
+[![MasterHead](banner.png)](https://github.com/jedipi)
 
 <!--
 **jedipi/jedipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
